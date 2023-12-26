@@ -1,0 +1,189 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: left;
+}
+
+h3{
+	text-align: right;
+}
+
+a{
+	text-decoration: none;
+	color: red;
+}
+
+#container{
+	background-color: white;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#containerdes{
+	background-color: white;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#containertop{
+	background-color: #FF4500;
+	width: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#containerb{
+	background-image:url('background.png');
+	background-color: white;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#signin{
+	background-color: orange;
+	width: 120px;
+	color: white;
+	float: right;
+	padding:10px;
+}
+
+#header{
+	background-color: orange;
+	color: white;
+	text-align: center;
+	padding:10px;
+}
+
+#header2{
+	background-color: #00CED1;
+	color: white;
+	text-align: center;
+	padding:10px;
+}
+
+#header3{
+	background-color: #FF4500;
+	color: white;
+	text-align: center;
+	padding:10px;
+}
+
+#similargood{
+	background-color: orange;
+	color: white;
+	text-align: center;
+	padding:5px;
+}
+
+#content{
+	width: 1500px;
+	padding: 0px;
+}
+
+#contentb{
+	background-image:url('background2.png');
+	width: 1500px;
+	padding: 0px;
+}
+
+
+#nav{
+	width: 300px;
+	float: left;
+}
+
+#nav ul{
+	color: red;
+	padding: 0;
+	list-style-type: none;
+}
+
+#main{
+	width: 1200px;
+	float: center;
+	color: black;
+}
+
+#leftspace{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: black;
+	width: 750px;
+	float: left;
+}
+
+#leftspacesmall{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	color: black;
+	width: 375px;
+	float: left;
+}
+
+#rightspacesmall{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	color: black;
+	width: 350px;
+	float: right;
+}
+
+#rightspace{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: black;
+	width: 750px;
+	float: right;
+}
+
+#leftspaceb{
+	background-image:url('backgroundl.png');
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: #FA8072;
+	width: 750px;
+	float: left;
+}
+
+#rightspaceb{
+	background-image:url('backgroundr.png');
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: #FA8072;
+	width: 750px;
+	float: right;
+}
+
+#centerspace{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: xx-large;
+	color: white;
+	text-align: center;
+}
+
+input{
+
+	height:30px;
+	border:1px soft orange;
+	
+	border-redius: 4px;	
+}
+
+button{
+	position: relative;
+	height:34px;
+	font-size:10px;
+	color: white;
+	background: orange;
+}
